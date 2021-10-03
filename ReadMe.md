@@ -1,5 +1,3 @@
-<img src="./pbus_logo.png" width="300"/>
-
 # Low Latency Parallel Bus Interface for High Frequency multi-FPGA Communication
 
 Copyright (C) 2019-2021 Michele Difronzo and Others
