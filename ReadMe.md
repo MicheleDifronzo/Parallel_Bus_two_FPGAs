@@ -68,4 +68,4 @@ The parallel bus interface can be used for fast commuication applications such  
 
 ## Source files
 
-Currently it is provided  the VIVADO prject namely  FPGA1.  
+Currently the FPGA1 top level design with correlated files has been provided here. The design is the same for each communicating device.  
